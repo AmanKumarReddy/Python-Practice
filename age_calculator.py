@@ -19,7 +19,7 @@ while True:
         da = int(input("and enter the present day: "))
         break
 
-# After confirmation, continue calculation
+
 D = 30
 if da < d:
     da += D
