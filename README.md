@@ -1,2 +1,2 @@
 # Python-Practice
-My first GitHub repository for learning
+Added my first python project which calculates our perfect age avoiding confusion of self calculating.
